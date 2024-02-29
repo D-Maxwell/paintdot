@@ -1,5 +1,5 @@
 # Paint.SEA
-##### The first entry to the .SEA software array, using the [Crated](https://github.com/D-Maxwell/Crated/) framework for its frontend.
+##### The first entry to the SEA software array, using the [Crated](https://github.com/D-Maxwell/Crated/) framework for its frontend.
 
 
 This is not an unofficial port, nor does it have any relation whatsoever to paint.NET, apart from inspiration.
